@@ -2,7 +2,7 @@ package entity;
 
 public class Atm{
 	
-	int n100, n50, n20, n10;
+	private int n100, n50, n20, n10;
 	
 
 
